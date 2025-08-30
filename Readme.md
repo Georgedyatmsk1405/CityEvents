@@ -15,7 +15,10 @@ echo "ADMIN_ID=your_admin_id_here" >> .env
 # Run the bot
 cd app
 python3 main.py run
-🗄️ Alembic
+
+
+
+
 
 
 
