@@ -25,7 +25,7 @@ python3 main.py run
 
 
 
-JUST FOR REMIND - ONLY IF START NEW PROJECT
+# UST FOR REMIND - ONLY IF START NEW PROJECT
 
 bash
 # Initialize Alembic with async support
