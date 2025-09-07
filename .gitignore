@@ -3,3 +3,5 @@ db.sqlite3
 dbs.sqlite3
 db.sqbpro
 .idea
+test.py
+__pycache__/
